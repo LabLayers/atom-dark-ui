@@ -1,9 +1,13 @@
-# Atom Dark UI theme
+# Wrecking Ball
 
-Default dark UI theme for Atom.
+Breaks Atom completely.
 
-This theme is installed by default with Atom and can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
-_UI Themes_ drop-down menu.
+# Insallation
+
+`apm install wrecking-call`
+
+# Preview
+
+Imagine a beautiful text editor (displayed below) except that everything is invisible.
 
 ![](https://f.cloud.github.com/assets/671378/2265086/c6897dba-9e7b-11e3-945d-551cac610717.png)
