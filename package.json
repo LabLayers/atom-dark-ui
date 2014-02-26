@@ -1,10 +1,10 @@
 {
-  "name": "atom-dark-ui",
+  "name": "wrecking-ball",
   "theme": "ui",
   "version": "0.23.0",
-  "description": "Default dark theme for interface components",
+  "description": "Breaks Atom completely.",
   "license": "MIT",
-  "repository": "https://github.com/atom/atom-dark-ui",
+  "repository": "https://github.com/LabLayers/wrecking-ball",
   "engines": {
     "atom": ">0.40.0"
   }
